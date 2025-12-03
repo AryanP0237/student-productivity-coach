@@ -14,5 +14,5 @@ A simple desktop assistant built in Python + Tkinter that:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/student-productivity-coach.git
+   git clone https://github.com/AryanP0237/student-productivity-coach.git
    cd student-productivity-coach
